@@ -1,0 +1,2 @@
+1) Implements callbacks: EarlyStop, Logger
+2) Trainer: integrate lr_scheduler, add callbacks integration.
